@@ -1,0 +1,4 @@
+{
+  "extends": "@coezzion/ts-config/base.json",
+  "include": ["src"],
+}

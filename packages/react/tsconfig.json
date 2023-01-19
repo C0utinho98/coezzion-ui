@@ -1,0 +1,4 @@
+{
+  "extends": "@coezzion/ts-config/react.json",
+  "include": ["src"]
+}
